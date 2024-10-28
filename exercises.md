@@ -10,6 +10,7 @@
 | Bent Over Row Dumbbell        | Arms                  | ![Bent Over Row Dumbbell](./images/bent-over-row-dumbbell.jpg) |
 | Biceps Curl                   | Arms                  | ![Biceps Curl](./images/biceps-curl.jpg)                   |
 | Bicycle Crunches              | Abs                   | ![Bicycle Crunches](./images/bicycle-crunches.jpg)         |
+| Bird Dog | Back                  | ![Bird Dog](./images/bird-dog.jpg) squeeze|
 | Boat Twist                    | Abs                   | ![Boat Twist](./images/boat-twist.jpg)                     |
 | Breakdancer                   | Abs, Arms             | ![Breakdancer](./images/breakdancer.jpg)                   |
 | Burpees                       | Abs, Arms, Legs       | ![Burpees](./images/burpees.jpg)                           |
@@ -34,7 +35,8 @@
 | Hammer Curls                  | Arms                  | ![Hammer Curls](./images/hammer-curls.jpg)                 |
 | High Kicks                    | Legs, Abs             | ![High Kicks](./images/high-kicks.jpg)                     |
 | Hostage                       | Abs, Legs             | ![Hostage](./images/hostage.jpg)                           |
-| Inner Thigh Squeeze and Lift  | Legs                  | ![Inner Thigh Squeeze and Lift](./images/inner-thigh-squeeze-and-lift.jpg) |
+|Inner Thigh Lift|Legs|![Inner Thigh Squeeze and Lift](./images/inner-thigh-lift.jpg) foot flexed | 
+| Inner Thigh Squeeze and Lift  | Legs                  | ![Inner Thigh Squeeze and Lift](./images/inner-thigh-squeeze-and-lift.jpg) both legs, squeeze|
 | Knee to Elbow Kickback        | Abs, Legs             | ![Knee to Elbow Kickback](./images/knee-to-elbow-kickback.jpg) |
 | Lunge Front Kick              | Legs                  | ![Lunge Front Kick](./images/lunge-front-kick.jpg)         |
 | Mountain Climber Twist        | Abs, Legs             | ![Mountain Climber Twist](./images/mountain-climber-twist.jpg) |

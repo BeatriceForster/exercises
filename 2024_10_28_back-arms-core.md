@@ -20,7 +20,7 @@
 
 | **Plank Rotation**            | **Nicole's Prone Rotation** |
 | ----------------------------- | -------------------------- |
-| ![Plank Rotation](./images/plank-rotation.jpg) | ![Nicole's Prone Rotation](./images/nicole-prone-rotation.png) |
+| ![Plank Rotation](./images/plank-rotation.jpg) | ![Nicole's Prone Rotation](./images/superman-twist.jpg) |
 
 ---
 
@@ -28,28 +28,29 @@
 
 | **Glute Bridge**              | **Tricep Dips**         |
 | ----------------------------- | ----------------------- |
-| ![Glute Bridge](./images/glute-bridge.jpg) | ![Tricep Dips](./images/tricep-dips.jpg) |
+| ![Glute Bridge](./images/glute-bridge.jpg) squeeze | ![Tricep Dips](./images/tricep-dips.jpg) lift 1 leg |
 
 ---
 
 ## Round 5: Back and Lower Body
 
-| **Hostage**                   | **Superman Twist**      |
+| **Hostage**                   | **Cross Crunches**      |
 | ----------------------------- | ----------------------- |
-| ![Hostage](./images/hostage.jpg) | ![Superman Twist](./images/superman-twist.jpg) |
+| ![Hostage](./images/hostage.jpg) |  ![Cross Crunches](./images/cross-crunches.jpg) |
 
 ---
 
 ## Round 6: Core Stabilization
 
-| **Russian Twists**            | **Plank Shoulder Tap**  |
+| **Inner Thigh Lift**            | **Plank Shoulder Tap**  |
 | ----------------------------- | ----------------------- |
-| ![Russian Twists](./images/russian-twist.jpg) | ![Plank Shoulder Tap](./images/plank-shoulder-tap.jpg) |
+| ![Inner Thigh Squeeze and Lift](./images/inner-thigh-lift.jpg) foot flexed | ![Plank Shoulder Tap](./images/plank-shoulder-tap.jpg) |
 
 ---
 
 ## Round 7: Lower Body and Full Body Burnout
 
-| **Inner Thigh Squeeze and Lift** | **Skaters**           |
+| **Russian Twists** | **Bird Dog**           |
 | -------------------------------- | ---------------------- |
-| ![Inner Thigh Squeeze and Lift](./images/inner-thigh-squeeze-and-lift.jpg) | ![Skaters](./images/skaters.jpg) |
+| ![Russian Twists](./images/russian-twist.jpg) | ![Bird-Dog](./images/bird-dog.jpg) squeeze when up
+|
