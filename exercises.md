@@ -1,4 +1,5 @@
 # Exercise Table
+https://www.spotebi.com/exercise-guide/
 
 | Exercise Name                | Target Muscle Group    | Image                                                     |
 | ---------------------------- | ---------------------- | --------------------------------------------------------- |
@@ -38,6 +39,7 @@
 |Inner Thigh Lift|Legs|![Inner Thigh Squeeze and Lift](./images/inner-thigh-lift.jpg) foot flexed | 
 | Inner Thigh Squeeze and Lift  | Legs                  | ![Inner Thigh Squeeze and Lift](./images/inner-thigh-squeeze-and-lift.jpg) both legs, squeeze|
 | Knee to Elbow Kickback        | Abs, Legs             | ![Knee to Elbow Kickback](./images/knee-to-elbow-kickback.jpg) |
+| Knee Hugs        | Abs, Legs             | ![Knee Hugs](./images/knee-hugs.jpg) |
 | Lunge Front Kick              | Legs                  | ![Lunge Front Kick](./images/lunge-front-kick.jpg)         |
 | Mountain Climber Twist        | Abs, Legs             | ![Mountain Climber Twist](./images/mountain-climber-twist.jpg) |
 | Mountain Climbers             | Abs, Arms, Legs       | ![Mountain Climbers](./images/mountain-climbers.jpg)       |
@@ -56,6 +58,7 @@
 | Side Crunch                   | Abs                   | ![Side Crunch](./images/side-crunch.jpg)                   |
 | Side Leg Lifts                | Legs                  | ![Side Leg Lifts](./images/side-leg-lifts.jpg)             |
 | Side Lunge                    | Legs                  | ![Side Lunge](./images/side-lunge.jpg)                     |
+| Side Lunge Curl               | Legs, Arms                  | ![Side Lunge Curl](./images/side-lunge-curl.jpg)                     |
 | Side Plank Hip Lifts          | Abs                   | ![Side Plank Hip Lifts](./images/side-plank-hip-lifts.jpg) |
 | Side Plank Rotation           | Abs                   | ![Side Plank Rotation](./images/side-plank-rotation.jpg)   |
 | Side Plank                    | Abs                   | ![Side Plank](./images/side-plank.jpg)                     |
@@ -75,3 +78,19 @@
 | Tricep Dips                   | Arms                  | ![Tricep Dips](./images/tricep-dips.jpg)                   |
 | V-Sit Bicycles                | Abs                   | ![V-Sit Bicycles](./images/v-sit-bicycles.jpg)             |
 | Windshield Wipers             | Abs                   | ![Windshield Wipers](./images/windshield-wipers.jpg)       |
+
+
+
+# Warmup
+
+
+| Exercise Name                | Target Muscle Group    | Image                                                     |
+| ---------------------------- | ---------------------- | --------------------------------------------------------- |
+| Arm Circles |         | ![Arm Circles](./images/arm-circles-warmup.jpg) |
+| Bent Over Twist |         | ![Bent Over Twist](./images/bent-over-twist-warmup.jpg) |
+| High Knees |        | ![High Knees](./images/high-knees-warmup.jpg) |
+| Hip Circles |        | ![Hip Circles](./images/hip-circles-warmup.jpg) |
+| Jumping Jacks          | |   ![Jumping Jacks](./images/jumping-jacks-warmup.jpg)           |
+| Neck Rolls |        | ![Neck Rolls](./images/neck-rolls-warmup.jpg) |
+| Run In Place |        | ![Run In Place](./images/run-in-place-warmup.jpg) |
+| Shoulder Rolls |        | ![Shoulder Rolls](./images/shoulder-rolls-warmup.jpg) |
