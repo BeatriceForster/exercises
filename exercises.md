@@ -53,7 +53,7 @@ https://www.spotebi.com/exercise-guide/
 | Plank                         | Abs, Arms             | ![Plank](./images/plank.jpg)                               |
 | Plie Squat Calf Raise         | Legs                  | ![Plie Squat Calf Raise](./images/plie-squat-calf-raise.jpg) |
 | Push-Up                       | Arms, Chest           | ![Push-Up](./images/push-up.jpg)                           |
-| Russian Twist                 | Abs                   | ![Russian Twist](./images/russian-twist.jpg)               |
+| Core Twist                 | Abs                   | ![Core Twist](./images/core-twist.jpg)               |
 | Scissor Kicks                 | Abs                   | ![Scissor Kicks](./images/scissor-kicks.jpg)               |
 | Side Crunch                   | Abs                   | ![Side Crunch](./images/side-crunch.jpg)                   |
 | Side Leg Lifts                | Legs                  | ![Side Leg Lifts](./images/side-leg-lifts.jpg)             |
