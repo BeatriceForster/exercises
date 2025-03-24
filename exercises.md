@@ -6,6 +6,7 @@ https://www.spotebi.com/exercise-guide/
 | Alternating Plank Row Leg Raise | Abs, Arms, Legs        | ![Alternating Plank Row Leg Raise](./images/alternating-plank-row-leg-raise.jpg) |
 | Alternating Superman          | Abs, Arms             | ![Alternating Superman](./images/alternating-superman.jpg) |
 | Ankle Tap Push-Ups            | Abs, Arms             | ![Ankle Tap Push-Ups](./images/ankle-tap-push-ups.jpg)     |
+| Arms Cross Side Lunge            | Abs, Arms             | ![Arms Cross Side Lunge](./images/arms-cross-side-lunge.jpg)     |
 | Around the Worlds             | Abs, Arms             | ![Around the Worlds](./images/around-the-worlds.jpg)       |
 | Bent Over Lateral Raise       | Arms                  | ![Bent Over Lateral Raise](./images/bent-over-lateral-raise.jpg) |
 | Bent Over Row Dumbbell        | Arms                  | ![Bent Over Row Dumbbell](./images/bent-over-row-dumbbell.jpg) |
@@ -13,6 +14,8 @@ https://www.spotebi.com/exercise-guide/
 | Bicycle Crunches              | Abs                   | ![Bicycle Crunches](./images/bicycle-crunches.jpg)         |
 | Bird Dog | Back                  | ![Bird Dog](./images/bird-dog.jpg) squeeze|
 | Boat Twist                    | Abs                   | ![Boat Twist](./images/boat-twist.jpg)                     |
+| **Balance Chop**| Hold dumpbell like a chopper, lift knee and twist torso. | <img src="./images/balance-chop.jpg" width="150" /> |
+| **Twist Punches**                | Punch across your body, twisting the torso with each rep. | <img src="./images/boxer-squat-punch.jpg" width="150" /> |
 | Breakdancer                   | Abs, Arms             | ![Breakdancer](./images/breakdancer.jpg)                   |
 | Burpees                       | Abs, Arms, Legs       | ![Burpees](./images/burpees.jpg)                           |
 | Chest Fly                     | Arms, Chest           | ![Chest Fly](./images/chest-fly.jpg)                       |
